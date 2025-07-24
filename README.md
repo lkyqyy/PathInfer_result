@@ -28,3 +28,20 @@ GPU剩余显存: 14895 MB
 GPU已用显存: 1484 MB
 ```
 ![可视化结果图](Region_736565184_compressed.jpg)
+
+
+# 实习工作也做过免疫组化 HER-2细胞检测
+部分数据示例：
+
+![可视化结果图](image.png)
+模型预测全片的结果【局部结果展示】：
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="image-1.png" width="200"/>
+  <img src="image-3.png" width="200"/>
+  <img src="image-4.png" width="200"/>
+  <img src="image-5.png" width="200"/>
+  <img src="image-6.png" width="200"/>
+  <img src="image-7.png" width="200"/>
+  <img src="image-8.png" width="200"/>
+  <img src="image-9.png" width="200"/>
+</div>
